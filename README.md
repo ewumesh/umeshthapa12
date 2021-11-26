@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umesh Thapa
 - 👀 I’m interested in AI and Data science.
-- 🌱 I’m currently working as Software designer and developer and I'm currently learning Machine learning and AI.
+- 🌱 I’m currently working as Frontend Developer and I'm currently learning Machine learning and AI.
 - 💞️ I’m looking to collaborate on Machine learning projects.
 - 📫 follow me on github @umeshthapa12 and follow me on instagram @ewumesh
 
