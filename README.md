@@ -11,5 +11,6 @@ umeshthapa12/ewumesh is a ✨ special ✨ repository because its `README.md` (th
 You can click the Preview link to take a look at your changes.
 --->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 <a href="https://app.daily.dev/ewumesh"><img src="https://api.daily.dev/devcards/f017a4c1896c45439f8dde63b818970e.png?r=vkt" width="400" alt="Umesh Thapa's Dev Card"/></a>
