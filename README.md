@@ -5,6 +5,9 @@ http://umesthapa.com.np/
 - 🌱 I’m currently working as Frontend Developer and I'm currently learning Machine learning and AI.
 - 💞️ I’m looking to collaborate on Machine learning projects.
 - 📫 follow me on github @umeshthapa12 and follow me on instagram @ewumesh
+- #ewumesh
+- #umesh
+- #Ewumesh
 
 <a href="https://app.daily.dev/ewumesh"><img src="https://api.daily.dev/devcards/f017a4c1896c45439f8dde63b818970e.png?r=vkt" width="400" alt="Umesh Thapa's Dev Card"/></a>
 
