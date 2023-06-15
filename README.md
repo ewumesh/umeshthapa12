@@ -1,4 +1,4 @@
-http://umesthapa.com.np/
+http://www.ewumesh.com/
 
 - 👋 Hi, I’m Umesh Thapa
 - 👀 I’m interested in AI and Data science.
